@@ -1,4 +1,4 @@
-package com.pxinfo.pxdelivery.Config;
+package com.pxinfo.pxdelivery.config;
 
 import java.util.Arrays;
 
